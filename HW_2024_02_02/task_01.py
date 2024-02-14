@@ -9,7 +9,7 @@ user_age = THIS_YEAR - year_of_birth
 
 print(last_name, ' ', first_name,', ', user_age, sep='')
 
-# Вывод:
+# Ввод:
 #     Введите имя: Oleg
 #     Введите фамилию: Ivanov
 #     Введите год рождения: 1999
@@ -18,3 +18,6 @@ print(last_name, ' ', first_name,', ', user_age, sep='')
 # Финальный вывод тоже надо было написать,
 # в вашем случае:
 # Ivanov Oleg, 25
+
+# Вывод:
+#     Ivanov Oleg, 25

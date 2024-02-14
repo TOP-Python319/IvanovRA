@@ -8,6 +8,8 @@ user_minutes = enter_minutes % HOUR
 
 print(f"{enter_minutes} мин - это {user_hours} час {user_minutes} мин")
 
-# Вывод:
+# Ввод:
 #     Введите минуты: 650
+
+# Вывод:
 #     650 мин - это 10 час 50 мин
