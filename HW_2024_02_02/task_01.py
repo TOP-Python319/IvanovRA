@@ -21,3 +21,6 @@ print(last_name, ' ', first_name,', ', user_age, sep='')
 
 # Вывод:
 #     Ivanov Oleg, 25
+
+# комментарий преподавателя:
+# всё чисто, вопросов нет. =)
